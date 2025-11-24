@@ -9,7 +9,7 @@ Este repositório serve como um **diretório principal** para organizar e facili
 Clique no nome da matéria para ser direcionado ao repositório específico, onde você encontrará o código-fonte, atividades e documentações detalhadas.
 
 * **Algoritmos e Pensamento Computacional**
-    * [Acesse o Repositório Aqui](https://github.com/dmbdatadev/Disciplina-de-Algoritmos-e-Pensamento-Computacional))
+    * [Acesse o Repositório Aqui](https://github.com/dmbdatadev/Disciplina-de-Algoritmos-e-Pensamento-Computacional)
 
 * **Design Profissional**
     * [Acesse o Repositório Aqui](https://github.com/dmbdatadev/Disciplina-de-Design-Profissional)
@@ -18,6 +18,7 @@ Clique no nome da matéria para ser direcionado ao repositório específico, ond
     * [Acesse o Repositório Aqui](https://github.com/dmbdatadev/Disciplina-de-Desenvolvimento-Front-End)
 
 * **Modelagem de Banco de Dados**
-    * [Acesse o Repositório Aqui](https://github.com/dmbdatadev/Disciplina-de-Modelagem-de-Banco-de-Dados))
+    * [Acesse o Repositório Aqui](https://github.com/dmbdatadev/Disciplina-de-Modelagem-de-Banco-de-Dados)
 
 ---
+
